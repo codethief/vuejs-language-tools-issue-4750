@@ -1,0 +1,19 @@
+{
+  "name": "vuejs-language-tools-issue-4750",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "type-check": "vue-tsc --build --force --verbose tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "The Unlicense",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.5.0",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "5.6.1-rc",
+    "vue": "^3.5.0",
+    "vue-tsc": "2.1.4"
+  }
+}
